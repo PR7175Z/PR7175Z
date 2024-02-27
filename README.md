@@ -3,7 +3,7 @@
 
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR7175Z)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PR7175Z/PR7175Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
