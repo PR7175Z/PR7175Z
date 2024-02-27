@@ -1,5 +1,5 @@
 ### Hello folks👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=40&pause=1000&color=48CAF7&random=false&width=600&height=65&lines=I'm+Aadim+Prajapati;Nice+to+meet+you+guys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=40&pause=1000&color=48CAF7&random=false&width=540&height=65&lines=I'm+Aadim+Prajapati;Nice+to+meet+you+guys)](https://git.io/typing-svg)
 <!--
 **PR7175Z/PR7175Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
