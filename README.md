@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=40&pause=1000&color=48CAF7&random=false&width=540&height=65&lines=I'm+Aadim+Prajapati;Nice+to+meet+you+guys)](https://git.io/typing-svg)
 
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/
+🌱 I’m currently learning Django, Python and Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
