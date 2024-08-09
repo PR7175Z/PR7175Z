@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=40&pause=1000&color=48CAF7&random=false&width=540&height=65&lines=I'm+Aadim+Prajapati;Nice+to+meet+you+guys)](https://git.io/typing-svg)
 
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/ <br>
-🌱 I’m currently learning Django, Python, JavaScript and Machine Learning
+🌱 I’m currently learning Django, Python, JavaScript, React and Machine Learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PR7175Z&currStreakNum=2FD3EB&fire=pink&card_height=160&theme=dark&background=1B1A55&hide_border=true&sideLabels=fff&date_format=[Y.]n.j)](https://git.io/streak-stats)
