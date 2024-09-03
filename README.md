@@ -4,7 +4,7 @@
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/ <br>
 🌱 I’m currently learning Django, Python, JavaScript, React and Machine Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&card_width=340&card_height=160&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&card_width=340&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PR7175Z&currStreakNum=2FD3EB&fire=pink&card_width=500&card_height=160&theme=dark&background=1B1A55&hide_border=true&sideLabels=fff&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
