@@ -4,8 +4,8 @@
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/ <br>
 🌱 I’m currently learning Django, Python, JavaScript, React and Machine Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PR7175Z&currStreakNum=2FD3EB&fire=pink&card_height=160&theme=dark&background=1B1A55&hide_border=true&sideLabels=fff&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&card_width=340&card_height=160&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PR7175Z&currStreakNum=2FD3EB&fire=pink&card_width=600&card_height=160&theme=dark&background=1B1A55&hide_border=true&sideLabels=fff&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PR7175Z&show_icons=true&theme=transparent&bg_color=1B1A55&title_color=fff&text_color=fff&icon_color=fb8c00&hide_border=true)
