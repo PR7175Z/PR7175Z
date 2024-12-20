@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&size=40&pause=1000&color=48CAF7&random=false&width=540&height=65&lines=I'm+Aadim+Prajapati;Nice+to+meet+you+guys)](https://git.io/typing-svg)
 
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/ <br>
-🌱 I’m currently learning Django, Python, JavaScript, React, NodeJS and Machine Learning<br>
+🌱 I’m currently learning Django, Python, JavaScript, PHP, React, NodeJS and Machine Learning<br>
 🔭 I’m currently working on WordPress
 
 
