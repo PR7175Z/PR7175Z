@@ -3,7 +3,6 @@
 
 📫 How to reach me: https://www.linkedin.com/in/aadim-prajapati-2a1974230/ <br>
 🌱 I’m currently learning Django, Python, JavaScript, PHP, React, NodeJS and Machine Learning<br>
-🔭 I’m currently working on WordPress
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR7175Z&layout=compact&card_width=340&title_color=ffffff&bg_color=1B1A55&hide_border=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
